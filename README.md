@@ -23,7 +23,7 @@
 
      <ul>os melhores profissionais</ul>
 
-<p>A lanchonete franciscus é um projeto de mentes revolucionarias que sempre eperam o melhor do mercado 
+<p>A lanchonete franciscus é um projeto de mentes revolucionarias que sempre espelham o melhor do mercado 
    <b> assese o link abaixo e conheça melhor o nosso trabalho </b>
 </p>
 </div>
