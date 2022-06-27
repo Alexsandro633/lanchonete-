@@ -28,4 +28,15 @@
 </p>
 </div>
 </body>
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    
+}
+
+.navbar{
+    height: 100px;
+    background: yellowgreen;
+}
 </html>
